@@ -1,1 +1,3 @@
 # IPv4IPv6-PathAnalysis
+
+Format dualpaths files: #VP Destination NumberPaths_v4 NumberPaths_v6 NumberPaths_Congruent NumberPaths_nonCongruent ListPaths_v4 ListPaths_v6 ListPaths_Congruent ListPaths_NonCongruent 
